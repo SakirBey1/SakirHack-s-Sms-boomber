@@ -21,10 +21,10 @@ class Starter:
 
 
 	def start(self):
-		print(Fore.YELLOW + pyfiglet.figlet_format("ANTI"))
+		print(Fore.YELLOW + pyfiglet.figlet_format("SAKİR"))
 		print('============')
-		print(Fore.GREEN + 'Forum - https://arel.pw')
-		print(Fore.GREEN + 'Telegram - https://t.me/ARELDEV_CHANNEL')
+		print(Fore.GREEN + 'Forum - https://github.com/SakirBey1')
+                print(Fore.GREEN + 'Telegram - https://t.me/Sakirhackofficial99')
 		print(Fore.GREEN + f'Services - {len(config.services)}')
 		print(Fore.YELLOW + '============')
 		phone = input('Phone: ')
